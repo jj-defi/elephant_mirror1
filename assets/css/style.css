@@ -674,7 +674,7 @@
     padding-top: 500px;
     margin-top: -500px;
     min-height: 870px;*/
-    background-image: url('/assets/img/home/Footer-BG.png');
+    background-image: url('assets/img/home/Footer-BG.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top right;
@@ -687,7 +687,7 @@
     padding-top: 500px;
     margin-top: -500px;
     min-height: 870px;
-    background-image: url('/assets/img/home/Footer-BG.png');
+    background-image: url('assets/img/home/Footer-BG.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top right;*/
@@ -777,7 +777,7 @@
 @media (max-width: 1300px) {
     .banner-area {
         background-position: left bottom;
-        background-image: url('/assets/img/home/home-background.png');
+        background-image: url('assets/img/home/home-background.png');
     }
 
     .elephant-icon {

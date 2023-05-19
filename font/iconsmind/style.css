@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'icomoon';
-	src:url('/font/iconsmind/icomoon.eot');
-	src:url('https://elephant.money/font/iconsmind/icomoon.eot?#iefix-rdmvgc') format('embedded-opentype'),
-		url('https://elephant.money/font/iconsmind/icomoon.woff?-rdmvgc') format('woff'),
-		url('/font/iconsmind/icomoon.ttf') format('truetype'),
-		url('https://elephant.money/font/iconsmind/icomoon.svg?-rdmvgc#icomoon') format('svg');
+	src:url('font/iconsmind/icomoon.eot');
+	src:url('font/iconsmind/icomoon.eot?#iefix-rdmvgc') format('embedded-opentype'),
+		url('font/iconsmind/icomoon.woff?-rdmvgc') format('woff'),
+		url('font/iconsmind/icomoon.ttf') format('truetype'),
+		url('font/iconsmind/icomoon.svg?-rdmvgc#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
